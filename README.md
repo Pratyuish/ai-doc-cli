@@ -17,4 +17,4 @@ python doc_generator/cli.py path/to/your/script.py
 ```
 
 ## Contributing
-Contributions are welcome! Please open an issue to discuss proposed changes before submitting a pull request. This utility is maintained under the MIT License.
+Contributions are welcome! Please open an issue to discuss proposed changes before submitting a pull request. This utility is maintained under the Apache License 2.0.
